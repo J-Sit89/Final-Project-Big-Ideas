@@ -13,7 +13,7 @@ Final Project Group 40
 
 # Description
 We are determining what neighborhood would be the safest to be in during a fire, with the "best" being the safest and the "worst" being the least safe.
-The submetrics used are previous fire incidents in the neighborhood, the neighborhood that could burn down the easiest, and the most effective fire departments.
+The submetrics used are previous fire incidents in the neighborhood, the neighborhood that could burn down the slowest, and the most effective fire departments.
 
 # Data Sets
 https://data.wprdc.org/dataset/city-owned-property
