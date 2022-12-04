@@ -12,15 +12,14 @@ Max Pietras - map406@pitt.edu
 Final Project Group 40
 
 # Description
-We are determining which neighborhood would be the safest (best) place to accidentally start a fire. 
-Our metrics include previous fire incidents in the neighborhood, percent of total neighborhood area that could burn down the easiest, and the most effective fire departments (which would be determined by its placement and the number of buildings it has to cover).
+We are determining what neighborhood would be the safest to be in during a fire, with the "best" being the safest and the "worst" being the least safe.
+The submetrics used are #INSERT DESC HERE#
 
 # Data Sets
 https://data.wprdc.org/dataset/allegheny-county-property-assessment-appeals
-https://data.wprdc.org/dataset/fire-districts
 https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
 https://data.wprdc.org/dataset/neighborhoods2
-https://data.wprdc.org/dataset/parks1
+https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/82f29015-6905-4b1c-8300-afe9bb2231b3
 
 # Overview
 This project is determining which neighborhood is the "best" from the perspective of a specific metric.
