@@ -4,9 +4,9 @@
 Match Box
 
 # Members and Notebook Names
-Kameren Jouhal - kaj143@pitt.edu - BuildingDensity_kaj143.ipynb.
-Joshua Sitler - jjs271@pitt.edu - FireDepartments_jjs271.ipynb.
-Max Pietras - map406@pitt.edu - FireIncidents_map406.ipynb.
+1. Kameren Jouhal - kaj143@pitt.edu - BuildingDensity_kaj143.ipynb
+2. Joshua Sitler - jjs271@pitt.edu - FireDepartments_jjs271.ipynb
+3. Max Pietras - map406@pitt.edu - FireIncidents_map406.ipynb
 
 # Canvas Group
 Final Project Group 40
